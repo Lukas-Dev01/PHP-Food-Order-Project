@@ -1,0 +1,17 @@
+/* 
+    Author: Lukas;
+    Theme: Food Order Website Admin;
+    Version: 1.0;
+*/
+
+*{  /* Word allocations, fonts etc. */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    border: 1px solid black;
+
+}
+
