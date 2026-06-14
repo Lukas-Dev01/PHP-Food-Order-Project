@@ -76,6 +76,7 @@ PHP-Food-Order-Project/
 |-- foods.html
 |-- index.html
 |-- order.html
+|-- preview.png
 `-- README.md
 ```
 
