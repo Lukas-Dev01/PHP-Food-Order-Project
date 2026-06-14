@@ -34,8 +34,8 @@ The project includes multiple interconnected pages, food categories, menu listin
 
 ### Frontend
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Responsive layout with media queries
 
 ### Backend
